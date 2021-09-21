@@ -14,7 +14,7 @@ return(
     <h2>Best Experiences</h2>
     <div className="pics">
                     <div className="child">
-                    <img className="img" src={image1}/>
+                    <img className="img" src={image1} alt={"prop"}/>
                     <div class="top-right"><FavoriteIcon style={style1}/></div>
                     <div className="bottom-left">The Golden Circle,</div>
                     <div className="bottom-left1">Iceland</div>
@@ -22,7 +22,7 @@ return(
                     <div className="bottom-right"><RiFootprintLine style={style2}/><text>20km</text></div>
                     </div>
                     <div className="child">
-                    <img className="img" src={image2}/>
+                    <img className="img" src={image2} alt={"props"}/>
                     <div class="top-right"><FavoriteIcon style={style1}/></div>
                     <div className="bottom-left">Snorkelling</div>
                     <div className="bottom-left1">Iceland</div>
@@ -30,7 +30,7 @@ return(
                     <div className="bottom-right"><RiFootprintLine style={style2}/><text>20km</text></div>
                     </div>
                     <div className="child">
-                    <img className="img" src={image3}/>
+                    <img className="img" src={image3} alt={"props"}/>
                     <div class="top-right"><FavoriteIcon style={style1}/></div>
                     <div className="bottom-left">Snorkelling</div>
                     <div className="bottom-left1">Iceland</div>
@@ -38,7 +38,7 @@ return(
                     <div className="bottom-right"><RiFootprintLine style={style2}/><text>20km</text></div>
                     </div>
                     <div className="child">
-                    <img className="img" src={image4}/>
+                    <img className="img" src={image4} alt={"props"}/>
                     <div class="top-right"><FavoriteIcon style={style1}/></div>
                     <div className="bottom-left">The Golden Circle,</div>
                     <div className="bottom-left1">Iceland</div>

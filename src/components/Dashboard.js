@@ -19,7 +19,7 @@ function Dashboard(){
                     <Search/>
                     </div>
                 <div className="prof">
-                    Hello, User <img className="imge" src={img5}/>
+                    Hello, User <img className="imge" src={img5} alt={"xyz"}/>
                 </div>
                 </div>
             <div className="box-menu">
